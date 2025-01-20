@@ -1,0 +1,25 @@
+table tr td img{
+    height:200px;
+    width:200px;
+
+}
+table tr td {
+    border: solid black;
+    padding: 5px 20px;
+}
+
+th{
+    border: solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+}
+.mat-icon {
+    font-size: 40px;
+    height: 40px ;
+    width: 40px;
+    cursor: pointer;
+    color: #7b3b1e;
+}
