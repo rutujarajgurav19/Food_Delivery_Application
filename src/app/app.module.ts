@@ -22,7 +22,6 @@ import { AdminAddfoodComponent } from './components/admin/admin-addfood/admin-ad
 import { AdminHeaderComponent } from './components/admin/admin-header/admin-header.component';
 import { AdminHomeComponent } from './components/admin/admin-home/admin-home.component';
 import { AdminLoginPageComponent } from './components/admin/admin-login-page/admin-login-page.component';
-import { FoodListComponent } from './components/admin/food-list/food-list.component';
 import { CustomerCartComponent } from './components/customer/customer-cart/customer-cart.component';
 import { CustomerHeaderComponent } from './components/customer/customer-header/customer-header.component';
 
@@ -43,6 +42,7 @@ import {MatSnackBarModule} from '@angular/material/snack-bar';
 import { AdminOrderListComponent } from './components/admin/admin-order-list/admin-order-list.component';
 import { OrderHistoryDialogComponent } from './components/customer/order-history-dialog/order-history-dialog.component';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
+import { FoodListComponent } from './components/admin/food-list/food-list.component';
 
 
 @NgModule({
